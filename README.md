@@ -18,5 +18,8 @@ This project performs actuarial graduation tests on mortality data, including:
 2. Run all sections sequentially.
 3. Outputs (plots and statistics) will be saved in the `results/` folder.
 
+## New Additions
+- `graduation_data.xslx` – Excel sheet using graduated rates to calculate premiums and show roughness in rates.
+
 ## Author
 Cheshta
